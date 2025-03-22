@@ -1,6 +1,6 @@
 # AI-Powered Cybersecurity Threat Detection System  
 
-The **AI-Powered Cybersecurity Threat Detection System** is designed to **identify and mitigate cyber threats in real-time**. By leveraging **Machine Learning (ML) and Artificial Intelligence (AI)**, the system analyzes network traffic, detects anomalies, and predicts potential security threats before they escalate.  
+The AI-Powered Cybersecurity Threat Detection System is designed to identify and mitigate cyber threats in real-time. By leveraging Machine Learning (ML) and Artificial Intelligence (AI), the system analyzes network traffic, detects anomalies, and predicts potential security threats before they escalate.  
 
 ---
 
@@ -45,7 +45,7 @@ python3 -m ipykernel install --user --name myenv
 For this project, we are using the **Network Intrusion dataset (CIC-IDS-2017)**.  
 You can download it manually from [Kaggle](https://www.kaggle.com/datasets/chethuhn/network-intrusion-dataset).  
 
-Unzip the downloaded file into the **rawdata/** folder of the repository.  
+Unzip the downloaded file into the **src/rawdata/** folder of the repository.  
 
 ```plaintext
 ├── README.md
